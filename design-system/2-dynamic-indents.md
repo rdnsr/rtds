@@ -88,4 +88,4 @@
 
 **x** - Базовый модуль (BaseX)
 
-![svgimg](images/scale-table.png)
+![svgimg](images/table.svg)
